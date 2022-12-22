@@ -18,7 +18,7 @@
     "fs": "0.0.1-security",
     "get-env": "^0.5.10",
     "http-errors": "~1.6.2",
-    "jsonwebtoken": "^8.5.1",
+    "jsonwebtoken": "^9.0.0",
     "lodash": "^4.17.11",
     "log4js": "^4.1.0",
     "morgan": "^1.9.1",
